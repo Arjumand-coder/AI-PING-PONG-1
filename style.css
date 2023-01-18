@@ -1,0 +1,28 @@
+body
+{
+text-align: center;
+}
+
+.heading {
+width: 100%;
+height: 80px;
+
+
+}
+
+.heading h1{
+     display: inline;
+     float: left;
+     font-weight: 900;
+     
+     }
+     
+     .heading button {
+          float:right;
+         
+          border: 1px solid white;
+     
+     }
+     
+      
+
